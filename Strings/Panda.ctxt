@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Panda()
+comment1.params=country\ weight
+comment1.target=Panda(java.lang.String,\ double)
+comment2.params=weight
+comment2.target=void\ setWeight(double)
+comment3.params=country
+comment3.target=void\ setCountry(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getCountry()
+comment5.params=
+comment5.target=double\ getWeight()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
